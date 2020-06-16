@@ -29,7 +29,7 @@ function App() {
             <img width="100" height="100" src={logo} />
           </div>
           <div>
-            <h2 style={{ margin: '5px' }}><b>TabEnv</b></h2>
+            <h2 style={{ margin: '5px' }}><b>TabSpaces</b></h2>
           </div>
           <div className="new-env">
             <div style={{ display: 'flex' }}>
